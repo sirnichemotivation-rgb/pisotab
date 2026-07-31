@@ -1,0 +1,5 @@
+    {
+      "versionCode": 31,
+      "url": "https://github.com/sirnichemotivation-rgb/pisotab/releases/download/v1.31/app-debug.apk"
+    }
+    
